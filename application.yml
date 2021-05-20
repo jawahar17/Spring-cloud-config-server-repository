@@ -1,4 +1,6 @@
-management:
+user:
+  firstName: manikandan
+  management:
   endpoint:
     health:
       show-details: always 
